@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, p {
+  margin-bottom: 10px;
+}
+
+body {
+  font-size: 150%;
+}
